@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.input-group {
+    margin: 1em auto;
+    max-width: 500px;
+}
+
+.input-group-text:hover {
+   border: 2px solid #1a1a1a;
+
+}
+
+.container {
+    text-align: center;
+}
+
+.temp {
+    font-size: 4em;
+}
+
+.description {
+    font-size: 5em;
+}
+
+.weather-info {
+    display: none;
+}
+
+.city-name {
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.wi-rain {
+	color: black;
+	font-size: 4em;
+}
+
