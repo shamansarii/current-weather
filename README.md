@@ -18,3 +18,5 @@ To make this application, we're going to need to cover the following topics:
   * API -> (Application Programming Interface) - where and how we get the weather data.
   * JSON -> The weather data.
   * jQuery -> A javascript library that makes web programming a bit easier for us.
+
+### SCREENSHOOT
