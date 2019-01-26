@@ -19,5 +19,7 @@ The app MUST use:
 5. API - (Application Programming Interface)
 6. JSON - The weather data.
 
+The CDNs of all ingredients, along with `script.js` and `style.css` files, have already been linked in the `<head>`.
+
 ### SCREENSHOT
 
