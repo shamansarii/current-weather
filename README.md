@@ -23,3 +23,4 @@ The CDNs of all ingredients, along with `script.js` and `style.css` files, have 
 
 ### SCREENSHOT
 
+![current-weather-app](https://user-images.githubusercontent.com/46775349/55642207-46e63800-57e9-11e9-851e-1ad5b405ddf2.png).
